@@ -1,0 +1,13 @@
+email: XXXX@gmail.com 
+password: XXXXXX
+first_name: Alice
+last_name: Smith
+gender: Female
+phone: (XXX)XXX-XXX
+location: New York, New York, United States
+school : New York Institute of Technology
+degree : Master
+discipline : Computer Sicnece
+uploads:
+ resume: /home/user/Desktop/resume.pdf
+
